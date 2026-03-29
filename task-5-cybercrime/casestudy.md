@@ -9,3 +9,5 @@ A realistic scenario targeting students goes as follows: a college student recei
 
 ## General Targets
 Students and young professionals are frequent targets because they are actively searching for opportunities and are statistically more likely to respond quickly. 
+
+### Prepared By: Akshit Bhatia 25BCE10582
