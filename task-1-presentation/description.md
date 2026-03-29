@@ -9,4 +9,4 @@ This infographic was created using Canva to help batchmates understand digital l
 
 
 
-### Prepared By: Akshit Bhatia
+### Prepared By: Akshit Bhatia 25BCE10582
