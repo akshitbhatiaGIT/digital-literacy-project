@@ -53,6 +53,7 @@ Created professional profiles in portfolio related platforms like GitHub, Linked
 
 ### Task 3: Explore Coding & Collaboration Platforms 
 Completed a coding challenge on HackerRank and created a Google Form for digital literacy awareness.
+Google Form Link: https://forms.gle/puNQRjTd7C4Lm8YR8
 
 ### Task 4: Draft a Professional Email & Etiquette Guide 
 Drafted two professional emails regarding real-life scenarios and create a social media Do's and Don'ts checklist.
