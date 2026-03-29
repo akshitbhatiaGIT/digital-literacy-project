@@ -11,7 +11,8 @@ It is structured into the following five tasks:
 **Task 5:** Cybercrime Awareness
 
 ## 🏗️ Project Structure
-```digital-literacy-project/
+```
+digital-literacy-project/
 │
 ├── README.md
 ├── report/
