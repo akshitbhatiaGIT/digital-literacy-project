@@ -4,10 +4,15 @@
 The objective of this project is to demonstrate essential digital skills required to survive and grow in today's digital world.
 
 It is structured into the following five tasks:
+
 **Task 1:** Infographic Regarding Digital Literacy
+
 **Task 2:** Digital Portfolio Containing GitHub, LinkedIN, Kaggle
+
 **Task 3:** Coding and Collaboration Containing HackerRank and Google Forms
+
 **Task 4:** Email & Etiquettes
+
 **Task 5:** Cybercrime Awareness
 
 ## 🏗️ Project Structure
