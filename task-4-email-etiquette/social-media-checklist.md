@@ -16,5 +16,6 @@
 * **Don’t overshare** – Posting too much personal content can harm your privacy and reputation.
 * **Don’t post inappropriate content** – Avoid offensive language, images, or behavior that could impact your future opportunities.
 
-### Prepared By
-**Akshit Bhatia 25BCE10582**
+
+
+### Prepared By: Akshit Bhatia 25BCE10582
