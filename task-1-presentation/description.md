@@ -2,9 +2,11 @@
 
 **Tool Used**: Canva
 
-This infographic was created using Canva to help batchmates understand digital literacy. It covers three sections:
+This infographic was created using Canva to help batchmates understand digital literacy.
 
-What Digital Literacy means
-Safe Internet Practices
-Professional Online Presence Tips
-One thing I found interesting was how much the layout affects how information is received. A text-heavy design looked cluttered, so I switched to short bullet points with icons which made it much cleaner and easier to read.
+* My design represents the impact metrics of a Digital Literacy Program, focusing on key areas such as skill proficiency, online safety, cybersecurity awareness, and professional presence. 
+* One interesting aspect of creating this design was learning how to balance text and visuals so that the infographic does not look cluttered but still conveys meaningful data. 
+
+
+
+### Prepared By: Akshit Bhatia
